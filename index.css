@@ -1,0 +1,20 @@
+.main-grid img {
+  height: 100px;
+}
+
+.main-grid .col.valign-wrapper {
+  height: 100px;
+}
+
+nav {
+  z-index: 1;
+  position: fixed;
+}
+
+.row.space {
+  height: 100px;
+}
+
+.container {
+  height: 1000vh;
+}
