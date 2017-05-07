@@ -1,9 +1,5 @@
 .main-grid img {
-  height: 100px;
-}
-
-.main-grid .col.valign-wrapper {
-  height: 100px;
+  height: 15vh;
 }
 
 nav {
@@ -17,4 +13,19 @@ nav {
 
 .container {
   height: 1000vh;
+}
+
+h1 {
+  font-size: 5vw;
+}
+
+h3 {
+  font-size: 3vw;
+}
+
+@media screen and (max-width: 800px) {
+  .main-grid img {
+    height: auto;
+    width: 100%;
+  }
 }
