@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/darkhole
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://darkhole.tk
+  * I am darkhole (https://keybase.io/darkhole) on keybase.
+  * I have a public key with fingerprint 726C 3F9A 137B E02B 2BD7  F5DB E6F5 22B3 4CF5 B4D0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a3bb7b8465b6723ea95467f5e4cfb2c65aa5f66b04288ac1f8b0b46ef353c0530a",
+      "fingerprint": "726c3f9a137be02b2bd7f5dbe6f522b34cf5b4d0",
+      "host": "keybase.io",
+      "key_id": "e6f522b34cf5b4d0",
+      "kid": "010160f668342c988cff0982249c6f05e1373de0e92720b6bbadbc29a46d569c39510a",
+      "uid": "81b3918282303e6284f6831b999b5619",
+      "username": "darkhole"
+    },
+    "service": {
+      "hostname": "darkhole.tk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511191601,
+  "expire_in": 157680000,
+  "prev": "54d131bfcce8e2743b3dc6308b7e2bd504f55698fb005ce07cfd1c63e46d7ced",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNmAnicbZJ9TJVVHMcvYAQE48UYm4XMZ4BCCM/7yzWdzqkMxGlkGKXX5zzPebiP
+F57n9tzL+0gSmgzTQJBgvbBJS8XBAmRsZuN1DBLCQot2gSSKBN0i41IxJp3L8p/W
++efsnPP9fs739ztnIMjHFOA158Y6Drpv3PG63VuXa8oMWyKKMaDLhZi5GLPB9Qlm
+y9DhtNhUGTNjOEHiIgUAB3iaZQDLkRQUBYZmOYWBtKQAUmIZUWQUlgU4TfK8KBEK
+D3BAs1ChGErCGQoXsQRMUbUsaNgNVXMiLEeyEqUIIkFxAOIkIIGMgDKArMKQJKAQ
+mQG0jCOjVXd4HCgcEB0wUdXRHlpY1uP9j/5pbpxgcZSKp2hSEnheUhRc4EmSFiRW
+wRmIbqZkiEOB5EgcsACIMpBIQaRZmWEFiRIYYj137jqOJwAlEDzJkxROQZbkaQWR
+CSAIAmBYQvAIHdDQxByI1LJo2Kx6NsRKEjC0m6dK0NNYTyX/USQ6bchqN3SnLunZ
+6MDqdNrNHp+z0O4R5kNg+RdhAaomoy4iQx40HKquYWYCKSWn6mESDEEQAiqaSMBg
+gV01oEX1KBiO5XE0PNfAPIRkaJlA0RVJgjwkOZoClCyxFM4DDqJ3YHBaYVALeAXg
+OCNBnJMUmUACiFrDSVDGPEW9pemIzaOcYhZiOtQsTXTmGqjkvt43N5i8Aky+z3h7
+vpcpwD/k6adLXA5e29e7kDQeYwqZf6fnS65oZfDy4ZjP//j0bjw7FpcZNrnbNjc5
+Hddz1a99sPZJy8/u3Hv1U1Edq3tWPxx6Y6s3NbYrbFK6JLoWUtxX9tbW3H1pZ3r6
+zf5zZaDxSqm5qTJjqr3qdNDjroWQ5fafosbIkJzhhp0NW0wkrPjuo73e2VrqxCGv
+B1EZzYWvH7ztp5/foRY0l5xnnVMNwbbSbTlGo+bje6zbtbV7YV/oVFeguT5tIrgj
+5Ndh32/3G9vl+MdjL7PhY+mX4o62JR/pZa77hMe4Zpq06hemP/YXDhWAzUfP/Bl7
+hpv9PeiHiKlb1y5Yt99KrRhttdRIroC17pjLZ/+auxa1hflx+MB0/siEPf1O8sjy
++0XX9U7y+6CvXEYZscf7YU/rZ8Rz1Ux050xi5UBzuX/LKzyZUBb8xYGzJ+arZlJi
+R822Z3+zfFB9o7+4u637vYiLfln+i/XHF2Ft3ukaV3zo1SXrbOf8ypG+5rrK5aHX
+PlkryCgLdLTladyu5/tX+x9t3GAbHS/3IR4agSdu+i2/mlK+mHZx88pS6TnbL0lP
+GrP/ZkNPWhcio8cbZzdFnhocwOJ6o+9Pu1N3LCZUpdf5PaJfTApPPu6evJffsn/3
+/W2d31TUhEaqfY6lrzPlk7ER0gNrYNNcyUbJZLz79mD/Jk45laZ0Zegd9RmVx0YO
+F7UO/QPBysQG
+=NYxu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/darkhole
+
+==================================================================
